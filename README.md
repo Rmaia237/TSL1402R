@@ -9,3 +9,4 @@ Codes for Arduino and Processing to use the sensor TSL1402R
  - https://www.arduinoecia.com.br/2014/09/tutorial-arduino-processing.html?m=1
  - https://processing.org/reference/
  - https://www.arduino.cc/reference/en/
+ - https://learn.sparkfun.com/tutorials/connecting-arduino-to-processing/all
